@@ -1,16 +1,27 @@
+# I Am Poor
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## Table of Contents
+1. [Overview](#Overview)
+2. [Product Spec](#Product-Spec)
+3. [App Preview](#App-Preview)
+4. [Credits](#Credits)
 
-#  I Am Poor
+## Overview
+### Description
 
-## Our Goal
+"I Am Poor" is a parody iOS application of the "I Am Rich" app originally developed by Armin Heinrich, with its only purpose being to show other people that they were able to afford it. The only purpose of "I Am Poor" is to show other people that you are poor.
 
-The objective of this challenge is to make sure you are comfortable with using the storyboard and designing your own UI elements. We want to make sure that everything we covered in the last tutorial is clear and you’ll be able to do it by yourself without help.
+## Product Spec
+### User Stories
 
-## What you will create
+- [X] User can see an image of a coal on the center of the app.
 
-Now that you have been rich, it’s time to join the 99%. This app will proudly display a lump of coal and the statement “I Am Poor”; the perfect app for when you get asked for money on the streets. 
+## App Preview
+
+Here's a image preview of how the app looks:
+
+<img src="https://imgur.com/E5SAJNe.png" width=250><br>
+
+## Credits
 
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
