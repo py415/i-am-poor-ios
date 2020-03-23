@@ -14,13 +14,13 @@
 ## Product Spec
 ### User Stories
 
-- [X] User can see an image of a coal on the center of the app.
+- [X] User shall be to see an image of a coal in the center of the app.
 
 ## App Preview
 
 Here's a image preview of how the app looks:
 
-<img src="https://imgur.com/E5SAJNe.png" width=250><br>
+<img src="https://imgur.com/9nhjRAR.png" width=250><br>
 
 ## Credits
 
