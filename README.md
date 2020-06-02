@@ -20,8 +20,8 @@ I Am Poor is a parody iOS application of the I Am Rich app originally developed 
 
 Here's a preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/81385197-c66ac880-90c7-11ea-82e5-4f56dd5a1ed9.png" width=400><br>
+<img src="https://user-images.githubusercontent.com/35745973/81385197-c66ac880-90c7-11ea-82e5-4f56dd5a1ed9.png" width=400>
 
 ## Credits
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
