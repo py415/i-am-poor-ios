@@ -20,7 +20,7 @@ I Am Poor is a parody iOS application of the I Am Rich app originally developed 
 
 Here's a preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/81385197-c66ac880-90c7-11ea-82e5-4f56dd5a1ed9.png" width=400>
+<img src="https://github.com/py415/app-resources/blob/master/ios/ios-i-am-poor.png" width=250>
 
 ## Credits
 
